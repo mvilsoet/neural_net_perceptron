@@ -24,6 +24,7 @@ optional arguments:
   --max_iter MAX_ITER   Maximum iterations - default 10
 ```
 
+and
 
 `
 python3 mp2_part1.py -h 
