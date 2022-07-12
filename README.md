@@ -10,21 +10,34 @@ Achieved .80 dev-set accuracy for part 1, and 0.84 dev-set accuracy for part 2 f
 python3 mp2_part1.py -h 
 
 > optional arguments:
+
 >   -h, --help            show this help message and exit
+
 >   --dataset DATASET_FILE
+
 >                         the directory of the training data
+
 >   --method METHOD       classification method, ['perceptron']
+
 >   --lrate LRATE         Learning rate - default 1.0
+
 >   --max_iter MAX_ITER   Maximum iterations - default 10
+
 
 
 
 python3 mp2_part1.py -h 
 
 > optional arguments:
+
 >   -h, --help            show this help message and exit
+
 >   --dataset DATASET_FILE
+
 >                         directory containing the training data
+
 >   --max_iter MAX_ITER   Maximum iterations: default 500
+
 >   --seed SEED           seed source for randomness
+
 `
